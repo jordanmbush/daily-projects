@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+}
+header {
+    background-color: #7f807f;
+    margin: 0px;
+    height: 100px;
+}
+header h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #52b11b;
+    padding: 25px;
+}
+.week {
+    border-color: #000000;
+    border-style: solid;
+    width: 100%;
+    height: 300px;
+    margin: 0px;
+    padding: 5%; 
+    background-color: #52b11b;
+}
+section {
+    border-style: solid;
+    border-color: black;
+    width: 18%;
+    float: left;
+    margin: 2px;
+    height: 90%;
+}
+
+section h2 {
+    text-align: center;
+}
