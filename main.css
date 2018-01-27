@@ -32,7 +32,7 @@ header h1 {
     height: 290px;
     display: block;
     margin: 10px;
-    background-color:#eca241c5;
+    background-color:#eca241a2;
     /* border: 1px black solid; */
     overflow: auto;
     border-radius: 10px;
@@ -46,7 +46,7 @@ header h1 {
     text-align-last: center;
 }
 .week-container:nth-child(2n+1){
-    background-color: #65f879d5;
+    background-color: #65f879ab;
 }
 
 section {
